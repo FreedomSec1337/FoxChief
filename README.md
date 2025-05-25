@@ -51,7 +51,7 @@ Installation
 
 1. Clone this repository to your local machine:
 
-git clone https://github.com/your-username/foxchief.git
+git clone [](https://github.com/FreedomSec1337/FoxChief)
 
 
 2. Navigate to the project directory:
@@ -59,12 +59,7 @@ git clone https://github.com/your-username/foxchief.git
 cd foxchief
 
 
-3. Install the required Python libraries:
-
-pip install -r requirements.txt
-
-
-
+3. Install the required Python librarie
 
 ---
 
